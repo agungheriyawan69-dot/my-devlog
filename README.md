@@ -30,3 +30,4 @@ Saya mendokumentasikan proses belajar di folder `posts/` — mulai dari:
 
 > _“Saya tidak ingin keluar dari zona nyaman lalu langsung sampai tujuan.  
 > Saya ingin **melangkah perlahan, tapi tidak pernah mundur**.”_
+> <!-- Aktivasi profil: commit kecil untuk trigger GitHub -->
